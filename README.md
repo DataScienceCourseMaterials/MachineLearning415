@@ -3,9 +3,9 @@
 
 ## Welcome to Machine Learning!
 
-[Course Policies]()
+[Course Policies](docs/policy.pdf)
 
-[Course Schedule]()
+[Course Schedule](schedule.pdf)
 
 
 
