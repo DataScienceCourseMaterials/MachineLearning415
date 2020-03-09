@@ -37,8 +37,7 @@ C+ | 75%
 C | 70%
 D+ | 65%
 D | 60%
-F below 60%
-
+F | below 60%
 
 #### Homework Policy 
 
