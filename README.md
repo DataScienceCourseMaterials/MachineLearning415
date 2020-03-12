@@ -5,7 +5,7 @@
 
 [Course Policies (handout)](docs/policy.pdf)
 
-[Course Schedule](schedule.pdf)
+[Course Schedule](docs/schedule.pdf)
 
 
 ## Course Policies
